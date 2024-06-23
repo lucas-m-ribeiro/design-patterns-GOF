@@ -1,0 +1,15 @@
+/home/lucaomr/design-patterns-GOF/criacional/Singleton/bin/Debug/net7.0/Singleton
+/home/lucaomr/design-patterns-GOF/criacional/Singleton/bin/Debug/net7.0/Singleton.deps.json
+/home/lucaomr/design-patterns-GOF/criacional/Singleton/bin/Debug/net7.0/Singleton.runtimeconfig.json
+/home/lucaomr/design-patterns-GOF/criacional/Singleton/bin/Debug/net7.0/Singleton.dll
+/home/lucaomr/design-patterns-GOF/criacional/Singleton/bin/Debug/net7.0/Singleton.pdb
+/home/lucaomr/design-patterns-GOF/criacional/Singleton/obj/Debug/net7.0/Singleton.csproj.AssemblyReference.cache
+/home/lucaomr/design-patterns-GOF/criacional/Singleton/obj/Debug/net7.0/Singleton.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucaomr/design-patterns-GOF/criacional/Singleton/obj/Debug/net7.0/Singleton.AssemblyInfoInputs.cache
+/home/lucaomr/design-patterns-GOF/criacional/Singleton/obj/Debug/net7.0/Singleton.AssemblyInfo.cs
+/home/lucaomr/design-patterns-GOF/criacional/Singleton/obj/Debug/net7.0/Singleton.csproj.CoreCompileInputs.cache
+/home/lucaomr/design-patterns-GOF/criacional/Singleton/obj/Debug/net7.0/Singleton.dll
+/home/lucaomr/design-patterns-GOF/criacional/Singleton/obj/Debug/net7.0/refint/Singleton.dll
+/home/lucaomr/design-patterns-GOF/criacional/Singleton/obj/Debug/net7.0/Singleton.pdb
+/home/lucaomr/design-patterns-GOF/criacional/Singleton/obj/Debug/net7.0/Singleton.genruntimeconfig.cache
+/home/lucaomr/design-patterns-GOF/criacional/Singleton/obj/Debug/net7.0/ref/Singleton.dll
